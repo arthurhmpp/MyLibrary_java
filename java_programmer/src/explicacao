@@ -1,0 +1,39 @@
+obj
+-> Atributos( caracteristica)
+-> Metodo(comportamento)
+____________________________________________
+|                                          |
+|        |-vector  ---|                    |
+|-list---|-arraylist--|---> array (index)  |
+|        |-linkedlist-|                    |
+|                                          |---> Colection
+|        |-hashset--------|                |
+|-set----|-linkedhashset--|---> Zconjunto  |
+|        |-treeset--------|                |
+|__________________________________________| 
+| 
+|
+|        |-hashmap--------|
+|-map----|-linkedhashmap--|---> conjunto chave + valor
+         |-treemap--------|
+
+
+PATH => definir um caminho
+
+files => classe utiliratia
+
+conecções
+- statement - simple
+- prepared statement - parametrizadas
+- callablestatement - procidures
+- resultset - consulta
+
+- SOLID
+
+- ESTRUTURA ORGANIZACIONAL PARA PROJETO JAVA
+
+- JAVABEANS
+
+Framework para conecção ao banco de dados
+- JDBC
+- JPA

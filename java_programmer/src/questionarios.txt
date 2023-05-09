@@ -1,0 +1,108 @@
+capitulo 1
+1. c
+2. d
+3. b
+4. a
+5. b
+
+capitulo 2
+1. d
+2. b
+3. d
+4. d
+5. b
+
+capitulo 3
+1. d
+2. c
+3. b
+4. a
+5. c
+
+capitulo 4
+1. b
+2. c
+3. b
+4. b
+5. c
+
+capitulo 5
+1. b
+2. d
+3. c
+4. c
+5. a
+6. d
+7. c
+
+capitulo 6
+1. a
+2. c
+3. b
+4. c
+5. d
+6. a
+
+capitulo 7
+1. c
+2. d
+3. b
+
+capitulo 8
+1. c
+2. e
+3. b,c
+4. e
+5. b
+
+capitulo 9
+1. a
+2. b
+3. b
+4. d
+5. c
+6. b
+
+capitulo 10
+1. c
+2. b
+3. d
+
+capitulo 11
+1. c
+2. a
+3. e
+4. a
+
+capitulo 12
+1. d
+2. c
+3. a
+
+capitulo 13
+1. d
+2. c
+
+capitulo 14
+1. d
+2. c
+
+capitulo 15
+1. d
+2. a
+3. a
+4. b
+5. e
+6. e
+
+capitulo 16
+1. 
+2. 
+
+capitulo 17
+1. 
+2. 
+
+capitulo 18
+1. 
+2. 
